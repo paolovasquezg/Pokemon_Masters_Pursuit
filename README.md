@@ -97,7 +97,7 @@
 
 ![Screenshot of the app](imagenes/8.png)
 
-### Descargue y añada el asset del siguiente [enlace](https://www.fab.com/listings/fb119fd8-1387-4193-b103-5004416a7ba1). ¡Con esto, ya está listo! Presione el botón de “Play” y luego el de “Game” para obtener un pequeño preview. ¡Disfrute!
+### Descargue y añada el asset del siguiente [enlace](https://www.fab.com/listings/fb119fd8-1387-4193-b103-5004416a7ba1) a la carpeta "Assets". ¡Con esto, ya está listo! Presione el botón de “Play” y luego el de “Game” para obtener un pequeño preview. ¡Disfrute!
 
 ![Screenshot of the app](imagenes/9.png)
 
