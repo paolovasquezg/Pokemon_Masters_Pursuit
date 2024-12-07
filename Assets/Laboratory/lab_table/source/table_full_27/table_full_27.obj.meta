@@ -1,0 +1,724 @@
+fileFormatVersion: 2
+guid: a84245f5669c57d439791c6ab64a8588
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_polySurface1Mat
+    second: {fileID: 2100000, guid: 74b747858e6e1ca46bc4e1923be9b74e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_polySurface20Mat
+    second: {fileID: 2100000, guid: 8b0289d36f0abef4b8a8888dcd1f9ab1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_polySurface21Mat
+    second: {fileID: 2100000, guid: c0d55288883252b4a919c404e406c59c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_polySurface22Mat
+    second: {fileID: 2100000, guid: 399c78c18a86aef4187e414b77704b92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_polySurface23Mat
+    second: {fileID: 2100000, guid: c380e101eab86f94e9d4ee0bee7714af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_polySurface5Mat
+    second: {fileID: 2100000, guid: c6753350fc50bac488e4f82c4755dbc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t10_low1Mat
+    second: {fileID: 2100000, guid: b8efa3f7fe6c97b47934410ca553c202, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t10_lowMat
+    second: {fileID: 2100000, guid: db03a59367fbe104ab2822749fd1f851, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t11_lowMat
+    second: {fileID: 2100000, guid: ee6ed55c58f21114f9245ab5abc34da2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t12_low1Mat
+    second: {fileID: 2100000, guid: 0a9f061b4c86f9546bc3dc2315939a9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t12_lowMat
+    second: {fileID: 2100000, guid: 19a098268e6326242b8778b2222afa1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t13_low1Mat
+    second: {fileID: 2100000, guid: e3485fd76049778439160bdcb98dc382, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t13_lowMat
+    second: {fileID: 2100000, guid: 0086818746b5c29498d27589209ee120, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t14_low3Mat
+    second: {fileID: 2100000, guid: 7e231d1e00bee314381ec4b6993213bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t14_lowMat
+    second: {fileID: 2100000, guid: ca88dcbd556e2444a9e532dc25b425eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t15_low2Mat
+    second: {fileID: 2100000, guid: f12fa24750bdb22459e1fe36f71caaaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t15_lowMat
+    second: {fileID: 2100000, guid: 950e39e07a1e0ef49a63fd2338b24d5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t16_low1Mat
+    second: {fileID: 2100000, guid: b366d170774af804dafea1b23a1f1163, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t16_low2Mat
+    second: {fileID: 2100000, guid: cb24b3798a7152f48b01c387d70a0de4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t16_low3Mat
+    second: {fileID: 2100000, guid: 19302b9a1c691d94fbafb653dc18c07f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t16_low4Mat
+    second: {fileID: 2100000, guid: 30dbd282e7083ae489e55976f86ff677, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t16_low5Mat
+    second: {fileID: 2100000, guid: cbe2f01691cd7e04a8d08d53341592b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t16_low6Mat
+    second: {fileID: 2100000, guid: 2098fa210d88bf940acdecdeecad42c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t16_low7Mat
+    second: {fileID: 2100000, guid: f684d94973378b040b92d0c4bb55b1e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t16_lowMat
+    second: {fileID: 2100000, guid: 8b410d530e2663a44b54cc4c9e591c1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t17_low1Mat
+    second: {fileID: 2100000, guid: f4eab8790d9bfa4428582abc36d20ada, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t17_low2Mat
+    second: {fileID: 2100000, guid: 36f5f42abd2bc1e47b26c84dbd6c658a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t17_low3Mat
+    second: {fileID: 2100000, guid: 4599bc7e4df152847ba893412232911e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t17_lowMat
+    second: {fileID: 2100000, guid: 631ee03ab9872d549a8ba294d7277c0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t18_low10Mat
+    second: {fileID: 2100000, guid: 03b462fdf518673458e3a5fc19ab7fdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t18_low11Mat
+    second: {fileID: 2100000, guid: 5dec101b90c1ff541ad75ab4b4a326a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t18_low12Mat
+    second: {fileID: 2100000, guid: c52aee78ebe4473458ca3752e33e996e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t18_low13Mat
+    second: {fileID: 2100000, guid: 70b20f0d3982d3747ba1eb5eaef2d8fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t18_low1Mat
+    second: {fileID: 2100000, guid: abecaf9babbc1ff4fbd84387d211cccd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t18_low4Mat
+    second: {fileID: 2100000, guid: b9cc1ec5466d78047baf470793b61678, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t18_low5Mat
+    second: {fileID: 2100000, guid: 3c8151675c8e2cf41853bbec9a0f845b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t18_lowMat
+    second: {fileID: 2100000, guid: 870a60bf12b59534fa6e428b87d1881f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t19_low1Mat
+    second: {fileID: 2100000, guid: 80e019e7b0667f44eb126bc4269e4dad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t19_low3Mat
+    second: {fileID: 2100000, guid: 5b60ba19ae0bcc94190d54abad4b73a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t19_low4Mat
+    second: {fileID: 2100000, guid: c237df91e0641fd459cfdc9296658ba6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t19_low5Mat
+    second: {fileID: 2100000, guid: 291fb969c338306449c380666be5c592, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t19_low6Mat
+    second: {fileID: 2100000, guid: 8fdd6b81ecd998046880ea15c0f62c07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t19_low7Mat
+    second: {fileID: 2100000, guid: d1aab6b68cdc0164ba6376965f1a53c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t19_low8Mat
+    second: {fileID: 2100000, guid: 54bab829329549f41b20975a5e7d98d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t19_lowMat
+    second: {fileID: 2100000, guid: d8e5209d180a1a649beb241a1f528ebf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t1_low1Mat
+    second: {fileID: 2100000, guid: 3ade5499331c2914e838db0decb57b64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t1_lowMat
+    second: {fileID: 2100000, guid: c72d33efc32ae3047bdb367317b6d0d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t20_low10Mat
+    second: {fileID: 2100000, guid: 36e4de1899fd2bc4e886fd705a8cc50b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t20_low11Mat
+    second: {fileID: 2100000, guid: 8b0559dd18890634a8d67e1faecc72ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t20_low1Mat
+    second: {fileID: 2100000, guid: 692a88dc0b27b05419d47abbbe10739a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t20_low2Mat
+    second: {fileID: 2100000, guid: e696d5b671ccb07458ece8bd1bc19ac4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t20_low9Mat
+    second: {fileID: 2100000, guid: 4264db899dabf8344a337e716eac26af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t20_lowMat
+    second: {fileID: 2100000, guid: 3b62dcca7e512b042871ce118a2bbfd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t22_low1Mat
+    second: {fileID: 2100000, guid: 87c14035281ae8548891e861d1b5f85d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t22_low2Mat
+    second: {fileID: 2100000, guid: 97b7241d9010eee4e977fa78cf2fd849, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t22_low3Mat
+    second: {fileID: 2100000, guid: 44af04b2f8e6612448d7d7f891e595f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t22_low4Mat
+    second: {fileID: 2100000, guid: da0d4de6db9983645b3e1d6dc3deb7d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t22_low5Mat
+    second: {fileID: 2100000, guid: f088fcb12eea21f47bcd6aeb158d0dba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t22_low6Mat
+    second: {fileID: 2100000, guid: d109e0721819173428852ec326fcbae4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t22_low7Mat
+    second: {fileID: 2100000, guid: b1acdf4f852d00648b7aa8a2138ccb86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t22_lowMat
+    second: {fileID: 2100000, guid: fa4d6a22087eabc49a82dc4ee5621b84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t23_low10Mat
+    second: {fileID: 2100000, guid: 28243488470955d479d49da6b16d6e37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t23_low11Mat
+    second: {fileID: 2100000, guid: 54cbefb6866f4bb4b9f32ceea40aa858, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t23_low1Mat
+    second: {fileID: 2100000, guid: dd5b2d0dc6bb95e4dbe938a092de68b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t23_low2Mat
+    second: {fileID: 2100000, guid: 27a312be445bc374daca7a4871ca916a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t23_low9Mat
+    second: {fileID: 2100000, guid: cf5cc94830dad2345ac42985b15ec3f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t23_lowMat
+    second: {fileID: 2100000, guid: c26277916b3ecd64ab904575b1948b2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t24_lowMat
+    second: {fileID: 2100000, guid: 4261f1be7752a1141830f6ba34b6f460, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t25_low3Mat
+    second: {fileID: 2100000, guid: 696c445f2d675994796bfce93b16a888, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t25_lowMat
+    second: {fileID: 2100000, guid: 119bc072c9cb6fb4796268e32e3b7f46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t26_low1Mat
+    second: {fileID: 2100000, guid: f46aaa2f405f1444ca2f3b6ca00beb9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t26_lowMat
+    second: {fileID: 2100000, guid: 5ee5b64ddaae27e40bbc4fd11c360d5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t27_low2Mat
+    second: {fileID: 2100000, guid: 091aaa0c137c21d4983eb590e2528437, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t27_low5Mat
+    second: {fileID: 2100000, guid: 410f135a381ada94da01e099ee2fbbbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t27_low6Mat
+    second: {fileID: 2100000, guid: 681d7a88a9b536e4da085ae216d7e4ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t27_low7Mat
+    second: {fileID: 2100000, guid: b9fd3708f37f0ff4b802ade3ec442169, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t28_low10Mat
+    second: {fileID: 2100000, guid: a056bcb6159b42a4d9bf9a60ce43b48a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t28_low11Mat
+    second: {fileID: 2100000, guid: ab2ff16274dcd89469c53bbe32ebb0e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t28_low12Mat
+    second: {fileID: 2100000, guid: d719b147f20848d4bb1777dc7a7e8ec7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t28_low13Mat
+    second: {fileID: 2100000, guid: f41a403a5a3207542bce563fb0553461, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t28_low14Mat
+    second: {fileID: 2100000, guid: 3c94d8fcb7a48e749a5ec2b0ecb21b43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t28_low15Mat
+    second: {fileID: 2100000, guid: 4a50ba563307dfe43827c56c6733d809, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t28_low16Mat
+    second: {fileID: 2100000, guid: d3fe195098004944cb02179b72bce7ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t28_low17Mat
+    second: {fileID: 2100000, guid: 439dd7ab1d240e84e826144434dcfdec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t28_low18Mat
+    second: {fileID: 2100000, guid: 2491c70b5d4ef0947840af5f9a905ba4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t28_low2Mat
+    second: {fileID: 2100000, guid: 9caa76dc4160c4844ab39bb5781d15be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t28_low3Mat
+    second: {fileID: 2100000, guid: ce851256c48127041b242c004d675040, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t28_low4Mat
+    second: {fileID: 2100000, guid: 2e453a7af19ee1542bddc91a02ac931a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t28_low5Mat
+    second: {fileID: 2100000, guid: 1fa99957e4682314da8064ad3950ba8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t28_low6Mat
+    second: {fileID: 2100000, guid: deef16c1fe4256743add202e9a98ff20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t28_low7Mat
+    second: {fileID: 2100000, guid: d7a5438d4158d8844ab9305086b053eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t28_low8Mat
+    second: {fileID: 2100000, guid: 43b59c479c7e11b45ada3cc9f6655be7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t28_low9Mat
+    second: {fileID: 2100000, guid: 53b044cd2b691e141a11f0835912711f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t28_lowMat
+    second: {fileID: 2100000, guid: 218041b08658878429906b33c099c121, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t29_low1Mat
+    second: {fileID: 2100000, guid: 59b8b7d26de898c40b92d1c6e8176c40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t29_low2Mat
+    second: {fileID: 2100000, guid: bed0d8e7865e55f4ea16e79862199a9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t29_low3Mat
+    second: {fileID: 2100000, guid: 03147840f49bb7a4ca7ed930abdd1e4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t29_low4Mat
+    second: {fileID: 2100000, guid: 428bbe1aedd817c49ba55e7ee6ec5105, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t29_low5Mat
+    second: {fileID: 2100000, guid: 53a2bb27b5b37ee42af89c38e641f225, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t29_lowMat
+    second: {fileID: 2100000, guid: b6445336403af454a98c5c9ad98a8a3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t2_low1Mat
+    second: {fileID: 2100000, guid: ea0e9f191f7303f4d8aeff7edc2440cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t2_low2Mat
+    second: {fileID: 2100000, guid: 74dfb09cd5812e440bd8b26df0f4e192, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t2_low3Mat
+    second: {fileID: 2100000, guid: daebcf0f4eb20594f85387a349f0bfdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t2_lowMat
+    second: {fileID: 2100000, guid: ef77f95806bf4e64e83d0e30415633a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t31_low1Mat
+    second: {fileID: 2100000, guid: 866456eafdcc91947a499e966bc980b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t31_low2Mat
+    second: {fileID: 2100000, guid: 38371e781f39d8047aaf4714dc8e49e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t31_lowMat
+    second: {fileID: 2100000, guid: 9f8ab9549629f0c4aa4de3ed6af44d54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t3_low1Mat
+    second: {fileID: 2100000, guid: bfd3411ab0eab55479e044db9b9d04d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t3_low2Mat
+    second: {fileID: 2100000, guid: c6b0212c757efc249968b7c7357991cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t3_low3Mat
+    second: {fileID: 2100000, guid: f357b1cb20ec0b64baa907c32abe011b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t3_lowMat
+    second: {fileID: 2100000, guid: 8ad7f60e5c877c7488ba96d618fd9b2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t5_low1Mat
+    second: {fileID: 2100000, guid: 221a7bed922e27d4192bdabec887f89a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t6_low1Mat
+    second: {fileID: 2100000, guid: 9f4d11c50445bc44989b0455c343b66d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t6_lowMat
+    second: {fileID: 2100000, guid: 9c8f5d369b1869e458123f3137643145, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t7_lowMat
+    second: {fileID: 2100000, guid: 0d5d2c28543069b4dbb4386d8de0ee48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t8_lowMat
+    second: {fileID: 2100000, guid: ee756e258b9f98540888c37eec280ed4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_low_poly_t9_lowMat
+    second: {fileID: 2100000, guid: a94a3d70654438a4499004ae6382f520, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_t5_low_low_polyMat
+    second: {fileID: 2100000, guid: a1452db74ea2a884ba264537d380b357, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: low_poly_t10_low1Mat
+    second: {fileID: 2100000, guid: 5cc626299440f1641abda5e795d5c11f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: low_poly_t10_lowMat
+    second: {fileID: 2100000, guid: 3c50db1b8ae1f2444adafabded566ba4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: low_poly_t30_low1Mat
+    second: {fileID: 2100000, guid: e4d9b9e14c982244588f0d2b23bb15fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: low_poly_t30_low2Mat
+    second: {fileID: 2100000, guid: 0ae6badb088a0cb4988b66e4f85e71fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: low_poly_t30_lowMat
+    second: {fileID: 2100000, guid: 62bd166b09525d141adbb8c5d48b9d96, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
